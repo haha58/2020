@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1CABF1</color>
+    <color name="colorPrimaryDark">#1CABF1</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorYellow_50">#FFFDE7</color>
+    <color name="colorYellow_75">#FFFFE0</color>
+    <color name="colorYellow_100">#FFF9C4</color>
+    <color name="colorYellow_200">#FFF59D</color>
+    <color name="colorYellow_300">#FFF176</color>
+    <color name="colorYellow_400">#FFEE58</color>
+    <color name="colorYellow_500">#FFEB3B</color>
+    <color name="colorYellow_600">#FDD835</color>
+    <color name="colorYellow_700">#FBC02D</color>
+    <color name="colorYellow_800">#F9A825</color>
+    <color name="colorYellow_900">#F57F17</color>
+    <color name="colorSandyBrown">#F4A460</color>
+
+    <color name="colorPink_50">#FCE4EC</color>
+    <color name="colorPink_100">#F8BBD0</color>
+    <color name="colorPink_200">#F48FB1</color>
+    <color name="colorPink_300">#F06292</color>
+    <color name="colorPink_400">#EC407A</color>
+    <color name="colorPink_500">#E91E63</color>
+    <color name="colorPink_600">#D81B60</color>
+    <color name="colorPink_700">#C2185B</color>
+    <color name="colorPink_800">#AD1457</color>
+    <color name="colorPink_900">#880E4F</color>
+
+    <color name="colorRed_50">#FFEBEE</color>
+    <color name="colorRed_100">#FFCDD2</color>
+    <color name="colorRed_200">#EF9A9A</color>
+    <color name="colorRed_300">#E57373</color>
+    <color name="colorRed_400">#EF5350</color>
+    <color name="colorRed_500">#F44336</color>
+    <color name="colorRed_600">#E53935</color>
+    <color name="colorRed_700">#D32F2F</color>
+    <color name="colorRed_800">#C62828</color>
+    <color name="colorRed_900">#B71C1C</color>
+
+
+    <color name="colorGrey_50">#FAFAFA</color>
+    <color name="colorGrey_100">#F5F5F5</color>
+    <color name="colorGrey_150">#F7F7F7</color>
+    <color name="colorGrey_200">#d5d5d5</color>
+    <color name="colorGrey_300">#E0E0E0</color>
+    <color name="colorGrey_400">#BDBDBD</color>
+    <color name="colorGrey_500">#9E9E9E</color>
+    <color name="colorGrey_600">#757575</color>
+    <color name="colorGrey_700">#616161</color>
+    <color name="colorGrey_800">#424242</color>
+    <color name="colorGrey_900">#212121</color>
+
+    <color name="colorBlue_50">#E3F2FD</color>
+    <color name="colorBlue_100">#BBDEFB</color>
+    <color name="colorBlue_200">#90CAF9</color>
+    <color name="colorBlue_300">#64B5F6</color>
+    <color name="colorBlue_400">#42A5F5</color>
+    <color name="colorBlue_450">#3bacfa</color>
+    <color name="colorBlue_500">#2196F3</color>
+    <color name="colorBlue_600">#1E88E5</color>
+    <color name="colorBlue_700">#1976D2</color>
+    <color name="colorBlue_800">#1565C0</color>
+    <color name="colorBlue_900">#0D47A1</color>
+    <color name="colorBlue_1000">#0D47A1</color>
+    <color name="colorIndigo_50">#E8EAF6</color>
+    <color name="colorIndigo_100">#C5CAE9</color>
+    <color name="colorIndigo_200">#9FA8DA</color>
+    <color name="colorIndigo_300">#7986CB</color>
+    <color name="colorIndigo_400">#5C6BC0</color>
+    <color name="colorIndigo_500">#3F51B5</color>
+    <color name="colorIndigo_600">#3949AB</color>
+    <color name="colorIndigo_700">#303F9F</color>
+    <color name="colorIndigo_800">#283593</color>
+
+    <color name="colorGreen_50">#E8F5E9</color>
+    <color name="colorGreen_100">#C8E6C9</color>
+    <color name="colorGreen_200">#A5D6A7</color>
+    <color name="colorGreen_300">#81C784</color>
+    <color name="colorGreen_400">#66BB6A</color>
+    <color name="colorGreen_500">#4CAF50</color>
+    <color name="colorGreen_600">#43A047</color>
+    <color name="colorGreen_700">#388E3C</color>
+    <color name="colorGreen_800">#2E7D32</color>
+    <color name="colorGreen_900">#1B5E20</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="spots_dialog_color">@android:color/holo_blue_dark</color>
+
+    <color name="gray3">#c9cacb</color>
+    <color name="gray1">#ecedef</color>
+    <color name="gray2">#a6aaad</color>
+    <color name="grgray">#686868</color>
+    <color name="graywhite">#EDEDED</color>
+</resources>

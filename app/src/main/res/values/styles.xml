@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AlertDialog" parent="Base.Theme.AppCompat.Light.Dialog.Alert">
+        <!-- 这里设置背景为透明，为了隐藏边框 -->
+        <item name="android:windowBackground">@color/colorWhite</item>
+        <item name="android:windowNoTitle">true</item>
+        <!-- 这里是修改顶部标题背景颜色，具体颜色自己定，可以是图片 -->
+        <item name="android:topDark">@color/colorWhite</item>
+        <!-- 这里是修改内容区域背景颜色 -->
+        <item name="android:centerDark">@color/colorWhite</item>
+        <item name="android:windowAnimationStyle">@android:color/transparent</item>
+        <!--默认 EditView 输入框字体的颜色-->
+        <item name="android:editTextColor">@color/colorBlack</item>
+        <item name="android:textColor">@color/colorBlack</item>
+
+    </style>
+    <style name="CheckBox" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/colorBlue_450</item>
+        <item name="colorControlActivated">@color/colorBlue_450</item>
+    </style>
+</resources>

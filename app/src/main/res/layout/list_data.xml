@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorBlue_50">
+
+    <CheckBox
+        android:id="@+id/checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:theme="@style/CheckBox"
+        />
+
+    <View
+        android:layout_width="@dimen/dp_1"
+        android:layout_height="fill_parent"
+        android:background="@color/colorGrey_300"/>
+
+    <TextView
+        android:id="@+id/text_id"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:paddingBottom="@dimen/dp_10"
+        android:paddingTop="@dimen/dp_10"
+        android:textSize="@dimen/sp_15"
+        android:text="@string/list_one"
+        android:textColor="@color/colorBlack"/>
+
+    <View
+        android:layout_width="@dimen/dp_1"
+        android:layout_height="fill_parent"
+        android:background="@color/colorGrey_300"/>
+
+    <TextView
+        android:id="@+id/text_one"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:paddingBottom="@dimen/dp_10"
+        android:paddingTop="@dimen/dp_10"
+        android:text="@string/list_two"
+        android:textSize="@dimen/sp_15"
+        android:textColor="@color/colorBlack"/>
+
+    <View
+        android:layout_width="@dimen/dp_1"
+        android:layout_height="fill_parent"
+        android:background="@color/colorGrey_300"/>
+
+    <TextView
+        android:id="@+id/text_two"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:paddingBottom="@dimen/dp_10"
+        android:paddingTop="@dimen/dp_10"
+        android:text="@string/list_three"
+        android:textSize="@dimen/sp_15"
+        android:textColor="@color/colorBlack"/>
+
+    <View
+        android:layout_width="@dimen/dp_1"
+        android:layout_height="fill_parent"
+        android:background="@color/colorGrey_300"/>
+
+</LinearLayout>

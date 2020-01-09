@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application1111</string>
+    <string name="tv_title">表</string>
+    <string name="tv_clear">数据清除</string>
+    <string name="tv_output">数据导出</string>
+    <string name="edit_search">搜索...</string>
+    <string name="text_one">货物：</string>
+    <string name="text_two">备注：</string>
+    <string name="edit_input">请输入XXXX</string>
+    <string name="list_one">序号</string>
+    <string name="list_two">货物</string>
+    <string name="list_three">备注</string>
+</resources>
